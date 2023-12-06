@@ -1,0 +1,23 @@
+<!DOCTYPE css>
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0c81ce;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+}
+
+.nav-bar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+
